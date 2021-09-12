@@ -1,0 +1,17 @@
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.AssemblyReference.cache
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Form1.resources
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.cache
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CopyComplete
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.dll
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.pdb
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.xml
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\GREG\Desktop\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.DataSet.xml
